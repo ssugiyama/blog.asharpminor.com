@@ -6,7 +6,7 @@ author = "sugi"
 tags = ["iwamatsuryo"]
 image = "https://blog.asharpminor.com/images/play/2025/watashiosagasanaide.jpg"
 +++
-<figure class="alignleft"><img src="/images/play/2025/watashiosagasanaide.jpg" alt="the pillowman" style="width: 300px !important;"></figure>
+<figure class="alignleft"><img src="/images/play/2025/watashiosagasanaide.jpg" alt="私を探さないで" style="width: 300px !important;"></figure>
 
 今回もかなり難解な作品だ。岩松了は、年をとってから晦渋なマスターピースを作曲したフォーレみたいだ。そのフォーレの曲が劇中で使われていた。
 
@@ -20,5 +20,5 @@ image = "https://blog.asharpminor.com/images/play/2025/watashiosagasanaide.jpg"
 
 **作・演出：岩松了／本多劇場／指定席8500円／2025-11-01 18:00／★★★**
 
-**出演：勝地涼、河合優実、富山えり子、篠原悠伸、新名基浩、岩松了、小泉今日子、**
+**出演：勝地涼、河合優実、富山えり子、篠原悠伸、新名基浩、岩松了、小泉今日子**
 
