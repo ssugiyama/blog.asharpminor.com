@@ -7,7 +7,7 @@ tags = ["isukariyuba"]
 ebook = 1
 image = "https://m.media-amazon.com/images/I/51tfyE2j2jL._SL500_.jpg"
 +++
-<a href="https://www.amazon.co.jp/dp/B08QMYQR85/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51tfyE2j2jL._SL500_.jpg" alt="B08QMYQR85" border="0" /></a>
+<a href="https://www.amazon.co.jp/dp/B08QMYQR85/?tag=chezsugi-22" target="_blank" ><img src="https://m.media-amazon.com/images/I/51tfyE2j2jL._SL500_.jpg" alt="B08QMYQR85" class="alignleft" border="0" /></a>
 
 近未来の日本。仕事はほぼロボットとAIによって代替され、人々にはいわゆるベーシックインカムであるところの「生活基本金」が全市民に支給され、人口の99%にあたる「消費者」と呼ばれる人々は労働をせずに暮らしている。残りの1%が「生産者」と呼ばれ、労働に携わっているが、必ずしも特別な能力があるとかエッセンシャルワーカーであるということでもなくさまざまなケースがある。
 
