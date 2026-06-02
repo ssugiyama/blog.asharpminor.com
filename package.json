@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ssugiyama/asharpminor.com.git"
+    "url": "git+https://github.com/ssugiyama/blog.asharpminor.com.git"
   },
   "author": "Shinichi SUGIYAMA",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ssugiyama/asharpminor.com/issues"
+    "url": "https://github.com/ssugiyama/blog.asharpminor.com/issues"
   },
-  "homepage": "https://github.com/ssugiyama/asharpminor.com#readme",
+  "homepage": "https://github.com/ssugiyama/blog.asharpminor.com#readme",
   "dependencies": {
     "@popperjs/core": "^2.10.2",
     "bootstrap": "^5.1.3",
