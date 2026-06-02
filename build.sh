@@ -81,6 +81,10 @@ main() {
     git fetch --unshallow
   fi
 
+  # run npm tasks
+  echo "Run npm tasks"
+  npm install --unsafe-perm
+  npm run build
   # Build the site
   echo "Building the site..."
   hugo build --gc --minify
