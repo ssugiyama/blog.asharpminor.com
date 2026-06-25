@@ -4,6 +4,7 @@ date = 2026-06-25T10:17:06+09:00
 type = "post"
 author = "sugi"
 tags = ["science"]
+image = "https://m.media-amazon.com/images/I/61hlUUlgixL._SL500_.jpg"
 +++
 <a href="https://www.amazon.co.jp/dp/1108708447?tag=chezsugi-22" target="_blank" class="alignleft"><img src="https://m.media-amazon.com/images/I/61hlUUlgixL._SL500_.jpg" alt="1108708447" border="0" /></a>
 
