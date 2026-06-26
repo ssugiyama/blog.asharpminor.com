@@ -13,33 +13,33 @@ image = "https://m.media-amazon.com/images/I/61hlUUlgixL._SL500_.jpg"
 目次は以下の通り。
 
 * Part I. Building Up to Categories
-   * 1. Categories: the idea
-   * 2. Abstraction
-   * 3. Patterns
-   * 4. Context
-   * 5. Relationships
-   * 6. Formalism
-   * 7. Equivalence relations
-   * 8. Categories: the definition; 
+  * 1 Categories: the idea
+  * 2 Abstraction
+  * 3 Patterns
+  * 4 Context
+  * 5 Relationships
+  * 6 Formalism
+  * 7 Equivalence relations
+  * 8 Categories: the definition; 
 * Interlude: A Tour of Math
-   * 9. Examples we've already seen, secretly
-   * 10. Ordered sets
-   * 11. Small mathematical structures
-   * 12. Sets and functions
-   * 13. Large worlds of mathematical structures
+  * 9 Examples we've already seen, secretly
+  * 10 Ordered sets
+  * 11 Small mathematical structures
+  * 12 Sets and functions
+  * 13 Large worlds of mathematical structures
 * Part II. Doing Category Theory
-   * 14. Isomorphisms
-   * 15. Monics and epics
-   * 16. Universal properties
-   * 17. Duality
-   * 18. Products and coproducts
-   * 19. Pullbacks and pushouts
-   * 20. Functors
-   * 21. Categories of categories
-   * 22. Natural transformations
-   * 23. Yoneda
-   * 24. Higher dimensions
-   * 25. Epilogue: thinking categorically
+  * 14 Isomorphisms
+  * 15 Monics and epics
+  * 16 Universal properties
+  * 17 Duality
+  * 18 Products and coproducts
+  * 19 Pullbacks and pushouts
+  * 20 Functors
+  * 21 Categories of categories
+  * 22 Natural transformations
+  * 23 Yoneda
+  * 24 Higher dimensions
+  * 25 Epilogue: thinking categorically
 
 ふつうの圏論入門書はいきなり圏の定義から始まるが、本書では前準備にPart Iをほぼ丸ごと割いて、最後の8章でようやく圏を定義する。真ん中の Interlude で数学の世界での圏の例を挙げていく。そしてPart II でようやく圏論の中身に入っていく。14章から19章で、圏の構造と性質を紹介し、20章で待ちに待った関手が登場する。この先で抽象度が急角度で上がる。自然変換までは何とかついていけたが、米田の補題や高次元圏は理解できたとは言い難い。何とかニュアンスだけ味わった。
 
