@@ -3,7 +3,7 @@ title = "酉島伝法『無常商店街』"
 date = 2026-07-09T10:13:47+09:00
 type = "post"
 author = "sugi"
-tags = ["torishima_denmpo", "jsf"]
+tags = ["torishima_dempo", "jsf"]
 image = "https://m.media-amazon.com/images/I/71jO7UdIIOL._SL500_.jpg"
 library = 1
 +++
