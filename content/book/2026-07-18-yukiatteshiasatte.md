@@ -5,6 +5,7 @@ type = "post"
 author = "sugi"
 tags = ["torishima_dempo"]
 library = 1
+image = "https://m.media-amazon.com/images/I/719KNhheamL._SL500_.jpg"
 +++
 <a href="https://www.amazon.co.jp/dp/4488028543?tag=chezsugi-22" target="_blank" class="alignleft"><img src="https://m.media-amazon.com/images/I/719KNhheamL._SL500_.jpg" alt="4488028543" border="0" /></a>
 
