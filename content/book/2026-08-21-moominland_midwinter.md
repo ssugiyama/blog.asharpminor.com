@@ -8,7 +8,9 @@ image = "https://m.media-amazon.com/images/I/71AqXUglmDL._SL500_.jpg"
 +++
 <a href="https://www.amazon.co.jp/dp/0312625413?tag=chezsugi-22" target="_blank" class="alignleft"><img src="https://m.media-amazon.com/images/I/71AqXUglmDL._SL500_.jpg" alt="0312625413" border="0" /></a>
 
+ムーミンというと子ども向けコンテンツのような気がしてしまうが、実はダークファンタジーと言ってもいいような陰影がある。実際読んだかどうかは覚えてないけど、特にこの作品はタイトルだけで脳裏に冬の荒涼とした雪景色が浮かんでくる。それで読んでみようと思ったのだ。ただ、日本語だと目が滑って集中できない感じがした。原語はスウェーデン語だがさすがに読めない。それで、間をとって英語版を読むことにしたのだった。
 
+ほとんどのMoominlandの住人たちは冬の間冬眠して過ごす。ところが、Moomintrollはひとり真冬に目覚めてしまう。そのまま眠れず、彼は外の世界に飛び出していく……。
 
 そこで出会う生き物たちや事物には、一種不条理文学的なシュールさがあった。キッチンのシンクの下には、まさに The Dweller Under the Sink という生き物がいて、まったく理解できない謎の言葉を話す。また、毛むくじゃらの小さな生き物は、The Ancestor[^1]（ご先祖さま）と呼ばれ、Moomintrollたちの先祖だと言われる。The Lady of the Cold という冬の寒さを擬人化したような存在がいて、彼女と出会った不注意な生き物は凍りついてしまう。
 
