@@ -1,5 +1,5 @@
 baseurl = "https://blog.asharpminor.com/"
-languageCode = "ja"
+locale = "ja"
 title = "a sharp minor"
 HasCJKLanguage = true
 SectionPagesMenu = "sections"
