@@ -4,6 +4,7 @@ date = 2026-11-14T23:42:56+09:00
 type = "post"
 author = "sugi"
 tags = ["kamimurasatoshi", "bulgakov"]
+image = "https://blog.asharpminor.com/images/play/2026/master_and_margarita.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2026/master_and_margarita.jpg" alt="巨匠とマルガリータ" style="width: 300px !important;"></figure>
 
